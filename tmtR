@@ -1,0 +1,15 @@
+#
+DOMAIN-SUFFIX,bytescm.com,REJECT
+DOMAIN-KEYWORD,pglstatp-toutiao,REJECT
+DOMAIN-SUFFIX,fqnovelstatic.com,REJECT
+DOMAIN-SUFFIX,bytednsdoc.com,REJECT
+DOMAIN-KEYWORD,pangolin-sdk-toutiao,REJECT
+DOMAIN-SUFFIX,bytegecko.com,REJECT
+DOMAIN-SUFFIX,douyin.com,REJECT
+DOMAIN-SUFFIX,fqnovelpic.com,REJECT
+DOMAIN-SUFFIX,ecombdimg.com,REJECT
+DOMAIN-SUFFIX,ecombdapi.com,REJECT
+DOMAIN-SUFFIX,bdurl.net,REJECT
+DOMAIN-SUFFIX,volces.com,REJECT
+DOMAIN-SUFFIX,zijieapi.com,REJECT
+#
