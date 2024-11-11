@@ -1,0 +1,9 @@
+#
+# network domains for proxy
+# お読み/oyomi/捧读
+#
+#
+
+
+DOMAIN-SUFFIX,myoland.com,PROXY
+DOMAIN-SUFFIX,telemetry.kevinzhow.com,PROXY
