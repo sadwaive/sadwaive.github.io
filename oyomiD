@@ -1,0 +1,10 @@
+#
+# network domains for proxy
+# お読み/oyomi/捧读
+#
+#
+DOMAIN-SUFFIX,amazonaws.com.cn,DIRECT
+DOMAIN-SUFFIX,speech.azure.cn,DIRECT
+DOMAIN-SUFFIX,openapi.youdao.com,DIRECT
+DOMAIN-SUFFIX,miaojiandao.com,DIRECT
+DOMAIN-SUFFIX,miraa.app,DIRECT
