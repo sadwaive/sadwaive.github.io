@@ -1,0 +1,9 @@
+#
+#
+# LingQ reject
+
+DOMAIN-SUFFIX,api.bugfender.com,REJECT
+DOMAIN-SUFFIX,dewrain.life,REJECT
+DOMAIN-SUFFIX,doubleclick.net,REJECT-DROP
+#
+#
