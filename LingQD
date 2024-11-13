@@ -1,0 +1,15 @@
+#
+#
+# LingQ
+DOMAIN-SUFFIX,api.iterable.com,USA
+DOMAIN-SUFFIX,ggpht.com,USA
+DOMAIN-SUFFIX,ytimg.com,USA
+DOMAIN-SUFFIX,youtube.com,USA
+DOMAIN-SUFFIX,youtu.be,KR
+DOMAIN-SUFFIX,amazonaws.com,PROXY
+DOMAIN-SUFFIX,amplitude.com,PROXY
+DOMAIN-SUFFIX,clevertap-prod.com,PROXY
+DOMAIN-SUFFIX,lingq.com,USA
+#
+#
+#
