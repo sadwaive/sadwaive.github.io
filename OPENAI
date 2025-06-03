@@ -1,0 +1,15 @@
+DOMAIN-SUFFIX,cdn.openai.com
+DOMAIN-SUFFIX,cdn.auth0.com
+DOMAIN-SUFFIX,files.oaiusercontent.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,o33249.ingest.us.sentry.io
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,auth.openai.com
+DOMAIN-SUFFIX,ab.chatgpt.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,cloudflare.com
